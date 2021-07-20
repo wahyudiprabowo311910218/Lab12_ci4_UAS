@@ -7,4 +7,4 @@
 
 Tugas UAS Pemrogaman Web
 
-link yt : https://youtu.be/ERjMz7dErEw
+link youtube : https://youtu.be/ERjMz7dErEw
